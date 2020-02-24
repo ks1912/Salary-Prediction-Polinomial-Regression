@@ -16,3 +16,9 @@ Position_Salaries_New.csv
 1. Pandas
 2. Numpy
 3. Matplotlib.pyplot
+
+# EXPECTED OUTPUT
+--------------------------------------------------------------------------------------------------------
+For Linear Regression  -->  306082.81493002
+
+For Polynomial Regression  --> 153002.77334568
